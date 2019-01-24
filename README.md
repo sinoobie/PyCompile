@@ -1,5 +1,5 @@
-# CompilerPy3
-Ini adalah tools compiler yang sudah di compile hehe
+# CompilePy3
+Ini adalah tools compiler python3 yang sudah di compile hehe
 # How To Install
 $ apt update && apt upgrade<br>
 $ pkg install python<br>
