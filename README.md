@@ -7,7 +7,7 @@ $ apt update && apt upgrade<br>
 $ pkg install python<br>
 $ pkg install git<br>
 $ git clone https://github.com/KANG-NEWBIE/PyCompile<br>
-$ cd CompilePy3<br>
+$ cd PyCompile<br>
 $ python kompiler.py<br>
    OR<br>
 $ python2 kompiler.py
